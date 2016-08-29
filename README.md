@@ -1,1 +1,1 @@
-# Gunvolt fan page :>
+# Jamuko landing page!
