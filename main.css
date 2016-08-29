@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+html { 
+  background: url(images/flowers.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font: 15px Arial, Helvetica, sans-serif;
+	color: #061C37;
+	background: #8CBDE1;
+/*
+	background-image:url(images/flowers.jpg);
+
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+*/
+}
+
+section {
+	background-image: url(images/transparentbg.png);
+	background-size: cover;
+	color: white;
+	border-radius: 1em;
+	padding: 1em;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%)
+}
+
+
+*
+{
+margin:0px;
+padding:0px;
+}
+
+
+h1, h2, h3
+{
+	padding:0px;
+	margin:0px;
+	text-align:center;
+}
+
+
+
+a,a:visited
+{
+	text-decoration:none;
+	color:#1779CA;
+}
+
+a:hover
+{
+	color:#7DBDEC;
+	border-bottom: #7DBDEC dotted 1px;
+}
+
