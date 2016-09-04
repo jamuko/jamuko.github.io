@@ -1,2 +1,5 @@
 name: Jamuko
 markdown: kramdown
+
+# Google services
+google_analytics: UA-74750838-2
